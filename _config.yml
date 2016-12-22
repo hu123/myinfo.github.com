@@ -1,0 +1,8 @@
+title: HuLuo's resume
+description: 阿洛在github上的简历
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
